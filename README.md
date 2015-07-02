@@ -26,6 +26,10 @@ This could perhaps be improved to look for same/similar dwelling type etc.
     $ cd ~/Code/proximity
     $ pip install requirements.txt
 
+### Configure database connection settings
+
+    edit db_connection.py 
+
 ### Then run (Please edit recomment_listings to customize hoome input)
 
     $ python load_data.py
