@@ -21,7 +21,7 @@ This could perhaps be improved to look for same/similar dwelling type etc.
     $ . bin/activate
     $ pip install -U distribute
 
-### Install careermate and all its dependencies
+### Install all its dependencies
 
     $ cd ~/Code/proximity
     $ pip install requirements.txt
