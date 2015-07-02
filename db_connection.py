@@ -1,3 +1,5 @@
+import pymysql
+
 DATABASE = {
         'db': 'proximity',
         'user': 'tuto_user',
@@ -5,3 +7,9 @@ DATABASE = {
         'host': 'localhost',
         'port': 3306
     }
+
+
+def get_mysql_connection():
+	conn = pymysql.connect(**DATABASE)
+	conn.autocommit(1)
+	return conn
