@@ -1,4 +1,4 @@
-# Careermate
+# Proximity
 
 Proxitmity is a python application that maintains a listing of homes for sale, and, accepts a listing/home and returns similar listings nearby.
 
