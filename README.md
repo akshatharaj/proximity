@@ -30,7 +30,7 @@ This could perhaps be improved to look for same/similar dwelling type etc.
 
     edit db_connection.py 
 
-### Then run (Please edit recomment_listings to customize hoome input)
+### Then run (Please edit recomment_listings to customize home input)
 
     $ python load_data.py
     $ python recommend_listings.py
