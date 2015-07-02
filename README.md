@@ -2,7 +2,7 @@
 
 Proxitmity is a python application that maintains a listing of homes for sale, and, accepts a listing/home and returns similar listings nearby.
 
-Currently, the app looks searches for all listings that are in neighboring zip codes and are nearly the same size (~same number of bathrooms/bedrooms)
+Currently, the app searches for all listings that are in neighboring zip codes and are nearly the same size (~same number of bathrooms/bedrooms)
 
 This could perhaps be improved to look for same/similar dwelling type etc.
 
