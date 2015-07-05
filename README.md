@@ -12,7 +12,7 @@ This could perhaps be improved to look for same/similar dwelling type etc.
 ### Clone the repository
 
     $ cd ~/Code
-    $ git clone git@github.com:username/proximity.git
+    $ git clone git@github.com:akshatharaj/proximity.git
 
 ### Make a new virtual environment
 
